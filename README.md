@@ -1,6 +1,10 @@
 ## About
 This repository tracks my **UNOFFICIAL** Arch Linux LTS branch setup for a minimal GNOME 46 system. The output of `pacman -Qqen` is [pkglist.txt](pkglist.txt). Pacman mirror server is set to a snapshot from [Arch Linux Archive](https://wiki.archlinux.org/title/Arch_Linux_Archive) and packages are rebuilt when security updates are available. The current used snapshot is from 2024-06-17. [AUR](https://aur.archlinux.org/) usage is mostly for packages containing prebuilt binary applications like Google Chrome, Firefox, LibreOffice, Visual Studio Code, Zoom and Viber.
 ### Changelog
+#### 2024-07-19
+Updates:
+- qt5-base 5.15.14+kde+r143-1
+- libndp 1.9-1
 #### 2024-07-18
 Updates:
 - gtk3 1:3.24.43-1
